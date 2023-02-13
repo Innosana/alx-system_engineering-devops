@@ -1,1 +1,2 @@
-0x02 shell 10 redirections and filters
+# 0x02. shell, I/O redirections and filters
+
